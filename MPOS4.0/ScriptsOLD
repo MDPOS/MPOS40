@@ -44,7 +44,7 @@ Java.Remove.OldDatabase = True If Clicked 'YES!'
 		java.makedatabase ( == 1)) 
 		java.databasename == (("DtaKeylogger.sqldb"));
 		; Makes a new database after removing old one.
-
+=
 
 ----------------------------------------------------------------------------------------------------------------------
 Func
