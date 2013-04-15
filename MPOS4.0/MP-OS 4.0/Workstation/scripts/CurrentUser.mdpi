@@ -19,6 +19,8 @@ int(os.mdpi);
 
 dim mdpi as string
 
+Location(//mdproduct/M:\mdpi\console\console.mpdi);
+
 CurrentUser(LoginRequest));
 Login(account!exist);
 Login(credentials(""));
@@ -39,6 +41,10 @@ writeline(front)("ERROR: Cannot open Copyright screen, please try again"));
 if connection.internet(true);
 writeline(background)("Opened Copyright window"));
 
-#More will come, only these screen do actually exist.
+CurrentUser(openhelp);
+console.writeline(console.mpdi));
+writeline(background)("Opened help"));
 
-- Mod Davey
+CurrentUser(opentimeandday);
+console.writeline(console.mpdi));
+writeline(background)("Opening Time and Day"));
