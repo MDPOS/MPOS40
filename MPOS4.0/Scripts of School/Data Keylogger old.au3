@@ -222,8 +222,8 @@ Terms;
 A = A.
 C = C;
 X = A
-Y = Ç
-I = Á
+Y = ï¿½
+I = ï¿½
 // End
 
 }
@@ -231,14 +231,14 @@ I = Á
   Number 1 Assign To A.
   Number 2 Assign To C;
   Number 3 Assign To A
-  Number 4 Assign To Ç
-  Number 5 Assign To Á
+  Number 4 Assign To ï¿½
+  Number 5 Assign To ï¿½
                  
   Term@ A. To String
   Term@ C To String
   Term@ A To String
-  Term@ ç To String
-  Term@ Á To String
+  Term@ ï¿½ To String
+  Term@ ï¿½ To String
 }
 
        }
@@ -356,13 +356,11 @@ ObtainKeyOfCurrentUser
 		Replace.ALL('Gets')Int.Obtain
 
 	   MouseClick As New ObjEvent
-		MouseClick.Do; (Readline;286)
-	------------------------------------------------------------
-	If Worked.script.Sucsses Then
-		GoTo.Sever;(http://www.twitter.com/
-	Import.ScriptTo.Sever;(http://www.twitter.com/)
-	Do
-		FILEIO.Make;C:\Windows\System32\Font\key.txt('.txt')
-		Send; True
-		EmailTo; mitchelvandinter@hotmail.com
+		MouseClick.Do; (Readline;277)
+
 		; Script Stop(End;)
+; ingnore changes
+;stop
+;cancel
+;exit
+;goodby();
