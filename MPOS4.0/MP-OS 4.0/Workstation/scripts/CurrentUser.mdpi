@@ -27,6 +27,7 @@ Login(credentials(""));
 
 CurrentUser(Loggedin));
 console.writeline(console.mpdi));
+sleep(5);
 wireline(background)("User %username% logged in"));
 
 CurrentUser(openexplorer);
