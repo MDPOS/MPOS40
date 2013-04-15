@@ -1,0 +1,56 @@
+﻿© Mitchel Productions Ltd. All Rights Reserved
+Mitchel Productions Operating System 3.0 
+http://www.mitchelproductions.co.cc
+**BELANGRIJK**
+Download Update's en dit programma alleen ALLEEN op onze site!!.
+Anders ontvangt u geen nieuwe update's! 
+
+3.0 Includes: (FINAL VERSION)
+
+* Bugs Fixes
+* Meer Theme's
+* USB 2.0 En 3.0 Supported!
+* Explore.exe Weggehaald
+* Taakbeheer
+* Bugs Gemaakt
+* Updates
+* Internet
+* Meer games
+* Rechtermuisklik optie verbetert
+* kladblok (Komt In Nieuwe Versie 4.0 Beta)
+* Verbeterde Nederlandse Taal
+* Persoonlijke map Beter Uiterlijk
+* Geen Minimize knop meer
+* Beter uiterlijk van Configuratiescherm
+* Betere Porgramma's Removal TIJDEL WEGGEHAALD VOOR VERBETERING! WACHT UPDATE 1
+* Select Language In volledig scherm 
+* Afsluit Optie's Verbetert
+* Naam in start menu 
+* Mitchel Productions Virusscanner Pro. + DLL voor de virussen DAGELIJKS UPDATE AUTOMATISH
+* Starten Als windows start weggehaald
+* Rechtermuis klik Eigenschappen optie
+* Meer themes (voor taskbar en achtergrond)
+* Gadgets
+* Wat is nieuw pagina
+* Muziek Speler   
+* Picture Vieuwer 
+* Computer Informatie 
+* Apparaten  
+* Winver Weggehaald
+* Disk.dll verbetert!
+* Meer DLL's
+* Gadget DLL
+* Binary Converter
+* Andere lettertype
+* HIPS
+* Quaretine
+* Mitchel Productions Virus Scanner 3.0
+* Nieuwe Selecteer_Taal 
+* MPOS MalwareScanner (BETA)!
+* Added New Code / DLL'S / INI /
+* Fixed Eigenschappen laat geen plaatje zien van selecteditem
+* PasswordChar weggehaald bij login Gebruikers naam
+
+
+
+             © Mitchel Productions Ltd. 2008 - 2011 All rights Reserved 

