@@ -1,5 +1,23 @@
-Before you go download this, remember that we only use this as a test-account.
-In a later-stage, when all of our project are done, and our website will be online, that we're going to move accounts to:
-M&D Productions.
-And then we're going to delete this account, so please stay tuned of all the news on our twitter.
-M_DProductions
+Some note:
+
+This is our test account only, our real account has yet to be made, all of our Admins are currently busy doing updates
+on the site and on the SVN, also we're working on the MPOS4.0 Beta version, which includeds Me, Davey, and Demian.
+
+All three of us cannot create a new account on Github for M&D Productions, since we're not of the Administration
+Department.
+
+I (Mitchel) am the Owner of M&D Productions, together with Demian, Davey is our lead Admin together with Johathan and
+James.
+
+Our employees of the Administration Departmed haven't been very busy lately, they always have a day of since there is just
+nothing to do for them, because we're all working on project based of an .exe installer.
+
+And not of an SVN, so they still have to make the real M&D Productions Account on github, when the time comes, you'll
+recieve an update in your SVN-Reposotory that we have switched accounts, and this one will be deleted.
+
+Thanks you for reading,
+
+© M&D Productiions,
+Mod Mitchel, Davey, Demian.
+
+Singed: MOD_MITCHEL
