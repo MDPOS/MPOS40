@@ -1,0 +1,51 @@
+ScriptExtension(".mdpi");
+ScriptExtensionFull("MDProductionsInc");
+#cs ----------------------------------------------------------------------------
+ Author:         Admin Davey, all of the Authors are diffrent, the owner of the 
+whole system and website is (Admin Mitchel), these are his employees, that makes
+these code's, Mod Mitchel makes the UI's and VB code.
+
+ Script Function:
+          Tells the current user of the OS everything, that the system does
+          in the console.
+
+#ce ----------------------------------------------------------------------------
+import mdpi
+import mdos
+import mdos32
+import hooks
+
+int(os.mdpi);
+
+dim mdpi as string
+
+Location(//mdproduct/M:\mdpi\console\console.mpdi);
+
+CurrentUser(LoginRequest));
+Login(account!exist);
+Login(credentials(""));
+
+CurrentUser(Loggedin));
+console.writeline(console.mpdi));
+sleep(5);
+wireline(background)("User %username% logged in"));
+
+CurrentUser(openexplorer);
+console.writeline(console.mpdi));
+writeline(background)("Opened explorer window"));
+
+CurrentUser(opencopyright);
+console.writeline(console.mpdi));
+if connection.internet(false);
+writeline(front)("ERROR: Cannot open Copyright screen, please try again"));
+}else{
+if connection.internet(true);
+writeline(background)("Opened Copyright window"));
+
+CurrentUser(openhelp);
+console.writeline(console.mpdi));
+writeline(background)("Opened help"));
+
+CurrentUser(opentimeandday);
+console.writeline(console.mpdi));
+writeline(background)("Opening Time and Day"));

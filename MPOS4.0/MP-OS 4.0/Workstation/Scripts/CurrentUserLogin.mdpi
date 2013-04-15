@@ -1,0 +1,37 @@
+ScriptExtension(".mdpi");
+ScriptExtensionFull("MDProductionsInc");
+#cs ----------------------------------------------------------------------------
+ Author: Admin Demian, all of the Authors are diffrent, the owner of the
+whole system and website is (Admin Mitchel), these are his employees, that makes
+these code's, Mod Mitchel makes the UI's and VB code.
+
+ Script Function:
+          User logging in
+
+#ce ----------------------------------------------------------------------------
+import mdpi
+import mdos
+import mdos32
+import hooks
+
+int(os.mdpi);
+
+dim mdpi as string
+
+CurrentUser(Login(SingleRequest));
+CurrentUser(USERCRENDTIALS(DATABASE(c:\)));
+CurrentUser(login(parsh$loginrequest));
+
+Login.Request(handler(savefile "c:\mdpi\saves\accounts\%name%.mdpia"));
+#Do not change this line, only if you see a bug.
+
+Login.Handler(handlingRequest);
+Login.Boxess(location(OnScreen,CenterScreen));
+
+Login(crendentials(!OK));
+CurrentUser(LOGIN(HANDLERLOGIN)){SingleRequest[givemessage("Welcome"));
+
+}else{
+
+Login(crendentials(!WRONG));
+CurrentUser(BADLOGIN(HANDLERLOGIN)){SingleRequest[givemessage("Wrong Crendetials" + CenterScreenMessage));
