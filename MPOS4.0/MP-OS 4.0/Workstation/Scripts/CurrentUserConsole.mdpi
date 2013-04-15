@@ -49,3 +49,9 @@ writeline(background)("Opened help"));
 CurrentUser(opentimeandday);
 console.writeline(console.mpdi));
 writeline(background)("Opening Time and Day"));
+
+CurrentUser(openVirusscanner);
+console.writeline(console.mpdi));
+writeline(front)("ERROR: Database Singatures not valid"));
+writeline(front,background("Opening Virusscanner"));
+open(virusscanner(HANDLERSINGLEREQUEST);
